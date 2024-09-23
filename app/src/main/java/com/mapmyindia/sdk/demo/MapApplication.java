@@ -23,19 +23,19 @@ public class MapApplication extends Application {
     }
 
     public String getAtlasClientId() {
-        return "";
+        return "96dHZVzsAusXwAMNJFWTvKOQkXLckX2FkiB6pkYx-wP7RHKRNBgfk2pTKmklyHpMXTI4j5yHOz6UoMDFXymPuQ==";
     }
 
     public String getAtlasClientSecret() {
-        return "";
+        return "lrFxI-iSEg-ChobbnEzqTHuhTzI68JcaYrpW4OeJc96hfvTuhjvsJ-EzroMF2QKD5P_Ux12EOUCk68SvIZMr4wNqDa-OKoaR";
     }
 
     public String getMapSDKKey() {
-        return "";
+        return "64550983048a56bb6f2d67756543cf3e";
     }
 
     public String getRestAPIKey() {
-        return "";
+        return "64550983048a56bb6f2d67756543cf3e";
     }
 
 }
